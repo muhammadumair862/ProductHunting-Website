@@ -74,6 +74,9 @@ To run your project first navigating to project folder in which manage.py file p
 * python manage.py runserver
 
 
+
+
+
 Thank You For Your Interest.
 
 Best Regards
