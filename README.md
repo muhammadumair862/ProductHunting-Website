@@ -4,4 +4,4 @@ Product Hunt with BI is web applications. It use to help the new businesses in t
 
 ### Installation
 
-. pip install requirements.txt
+* pip install requirements.txt
