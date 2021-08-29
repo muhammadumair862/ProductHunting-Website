@@ -79,4 +79,4 @@ Thank You For Your Interest.
 Best Regards
 
 
-*********************ALL Rights reserve to Product Hunt with BI.********************* 
+********************* ALL Rights Reserve to Product Hunt with BI. ********************* 
