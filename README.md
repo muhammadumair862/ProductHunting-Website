@@ -2,7 +2,6 @@
 
 Product Hunt with BI is web applications. It use to help the new businesses in their price and product selection. It also provide target audience for their product by recommending target auidence to enhance their product reach. It also provide best seo keywords for their products. It help businesses in their Sales Analysis and provide future Sales predication. Product Hunt app help users to analyze daraz flash sales.
 
-<br />
 ## Installation
 
 Run this command to install libraries
@@ -17,7 +16,6 @@ Or Manually Install libaries one by one
 * pip install django
 * pip install opencv-python
 
-<br />
 ## Libraries Used
 * Pandas
 * OpenCV
@@ -29,18 +27,15 @@ Or Manually Install libaries one by one
 * Seaborn
 * Django
 
-<br />
 ## Models Used
 * yolov3
 * Linear Regression
 
-<br />
 ## Framework Used
 * Django
 * Materialize CSS
 * Canvas.js
 
-<br />
 ## Main Features
 
 #### Price Trends Analysis
@@ -72,7 +67,6 @@ One of unique feature of Product Hunt app is daraz flash sale analysis. It provi
 In which users can search the product price trends using the product image search. Our object detection model build using one of the state of the art computer vision YOLOv3 model.
 
 
-<br />
 ## Run Project
 
 To run your project first navigating to project folder in which manage.py file present. Then run this command
