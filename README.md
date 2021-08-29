@@ -75,7 +75,8 @@ To run your project first navigating to project folder in which manage.py file p
 
 
 Thank You For Your Interest.
+
 Best Regards
 
 
-ALL Rights reserve to Product Hunt with BI.
+*********************ALL Rights reserve to Product Hunt with BI.********************* 
