@@ -5,3 +5,11 @@ Product Hunt with BI is web applications. It use to help the new businesses in t
 ### Installation
 
 * pip install requirements.txt
+### Libraries Used
+* Pandas
+* OpenCV
+* Sklearn
+* StatsModels
+* Numpy
+* Tensorflow
+* Keras
